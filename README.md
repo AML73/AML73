@@ -1,7 +1,2 @@
-# Hi, I’m Andrés 👋
-
-
-<!---
-AML73/AML73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I’m Andrés <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p>Currently student of App Development in Córdoba, Argentina</p>
